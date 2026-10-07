@@ -1,0 +1,42 @@
+# =========================
+# React Frontend
+# =========================
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+
+# =========================
+# Spring Boot Backend
+# =========================
+backend/target/
+backend/.env
+
+# =========================
+# Java
+# =========================
+*.class
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Secrets
+# =========================
+application-local.properties
+application-secret.properties
